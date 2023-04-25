@@ -11,6 +11,10 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
+        
+        while (true) {
+
+        }
     }
 
     public String getMessage() {
